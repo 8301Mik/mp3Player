@@ -7,7 +7,6 @@ public class App {
 		SwingUtilities.invokeLater(new Runnable() {
 			@Override
 			public void run() {
-				// TODO Auto-generated method stub
 				new GUI().setVisible(true);
 			}	
 		});
